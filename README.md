@@ -23,4 +23,4 @@ Me chamo William, sou estudante na area da programação, atualmente curso anali
 
 </br>
 
-![Snake animation](https://github.com/williamsoares1/williamsoares1/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/williamsoares1/williamsoares1/blob/output/github-contribution-grid-snake2.svg)
