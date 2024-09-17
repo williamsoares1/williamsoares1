@@ -1,6 +1,6 @@
 ## Sobre mim :100:
 
-Me chamo William, sou estudante na area da programação, atualmente curso analise e desenvolvimento de sistemas e conto com estudos por fora, gosto de aplicar meus conhecimentos e estou sempre disposto a aprender o que puder, não possuo experiencia profissional na area e estou em busca da primeira oportunidade.
+Me chamo William, sou estudante na area da programação, atualmente estudo por conta própria e não possuo experiencia profissional na área, gosto de aplicar meus conhecimentos e estou sempre disposto a aprender o que puder.
 
 ## Tecnologias e Ferramentas
 
