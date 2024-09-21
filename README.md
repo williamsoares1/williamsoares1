@@ -21,7 +21,7 @@ Estou atualmente aprimorando minhas habilidades e explorando novas tecnologias p
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 </br>
-- Explorando o AWS e aprendendo a hospedar e escalar meus projetos e também desenvolver conhecimentos sobre uso do armazenamento na nuvem.
+- Explorando o AWS e aprendendo a hospedar e escalar meus projetos.
 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 </br>
